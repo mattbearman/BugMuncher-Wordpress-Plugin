@@ -1,4 +1,4 @@
-BugMuncher-Wordpress-Plugin
+BugMuncher WordPress Plugin
 ===========================
 
-BugMuncher Wordpress Plugin
+This plugin for WordPress streamlines the process of adding BugMuncher to a WordPress powered website or blog.
